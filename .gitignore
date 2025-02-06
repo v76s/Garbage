@@ -1,2 +1,7 @@
 *.rbc
 *.fyc
+
+
+temp/
+*.log
+*.tmp
